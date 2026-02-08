@@ -9,7 +9,7 @@
 ## 🔧 Skills
 
 ### 💻 Languages
-Java, Python, HTML, CSS, JavaScript, SQL
+C, Java, Python, HTML, CSS, JavaScript, SQL
 
 ### 🛠️ Technologies
 - Web: JSP, Servlets, Bootstrap
@@ -17,7 +17,7 @@ Java, Python, HTML, CSS, JavaScript, SQL
 - Tools: Git, GitHub, VS Code, NetBeans
 
 ### 📁 Interests
-Open Source, Web Development, Data Structures & Algorithms
+AIML, Cloud ,Open Source, Web Development, Data Structures & Algorithms , CyberSecurity
 
 ---
 
