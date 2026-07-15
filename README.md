@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sahana Manjunath Sirsi
 
-### 🎓 3rd Year | Information Science | Jain Institute of Technology  
-💻 Aspiring Software Developer | Java | Web | Full Stack Enthusiast  
+### 🎓 4th Year | Information Science | Jain Institute of Technology  
+💻 Aspiring Software Developer | python | Web | Full Stack Enthusiast  
 🚀 Passionate about building real-world projects, contributing to open source & leveling up my Git skills
 
 ---
